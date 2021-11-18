@@ -1,0 +1,46 @@
+body {
+
+    background: #f0f0f1;
+    min-width: 0;
+    color: #3c434a;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 13px;
+    line-height: 1.4;
+
+}
+#login {
+
+    width: 320px;
+    padding: 8% 0 0;
+    margin: auto;
+
+}
+#login form {
+
+    margin-top: 20px;
+    margin-left: 0;
+    padding: 26px 24px 34px;
+    font-weight: 400;
+    overflow: hidden;
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    box-shadow: 0 1px 3px rgba(0,0,0,.04);
+}
+#login label {
+
+    font-size: 14px;
+    line-height: 1.5;
+    display: inline-block;
+    margin-bottom: 3px;
+    padding-right: 90px;
+    padding-top: 13px;
+}
+
+#login form p {
+    margin-bottom: 0;
+}
+p{
+    font-family: fantasy;
+    font-size: xx-large;
+    color: cadetblue;  
+}
